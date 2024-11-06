@@ -1,7 +1,7 @@
 # 06.11.2024
 # Uy narxlarini bashorat qiluvchi dastur
 
-""" </> Abdulahad_TheBest </> """
+""" </> Abdulahad-TheBest </> """
 
 import numpy as np
 import pandas as pd
