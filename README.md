@@ -1,1 +1,1 @@
-Bu yerda siz Sun'iy intellektga oid dasturlar bilan tanishishingiz mumkin.
+Here you can explore programs related to Artificial Intelligence.
